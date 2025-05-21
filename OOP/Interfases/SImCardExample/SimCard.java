@@ -1,0 +1,4 @@
+interface SimCard
+{
+	void startSimCard();
+}
